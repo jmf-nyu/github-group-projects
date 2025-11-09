@@ -1,5 +1,3 @@
-# github-group-projects
-A Guide to Group Projects on GitHub
 
 ## Introduction
 So, you want to work on a project on GitHub, but want to do it as a group. Here are some workflows for different scenarios. Whether you are contributing to an existing repository or creating a new repository makes a big difference in how you should go about things.
