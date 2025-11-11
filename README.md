@@ -55,5 +55,7 @@ There are several possible workflows for doing this. Before starting work, you'l
 
 **Note**: If the project uses GitHub Pages, make sure the settings for pages are displaying the correct fork and branch so you can actually see your changes as you make them.
 
+See more information on [pulling changes from a pull request into your fork](incorporating-pull-request.md)
+
 ## Further Reading
 [GitHub Guide to Contributing to Open Source](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-open-source) - has some helpful info but instructions use command line for Git.
