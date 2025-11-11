@@ -4,6 +4,8 @@
 ## Introduction
 So, you want to work on a project on GitHub, but want to do it as a group. Here are some workflows for different scenarios. Whether you are contributing to an existing repository or creating a new repository makes a big difference in how you should go about things.
 
+In every case, communication is key, make sure all group members are clear on what they are working on, otherwise you risk overwriting other peole's code or creating conflicts. It is also important to make commit messages that clearly describe the changes that were made and pull request messages that describe the changes as well.
+
 ## Creating a New Repository as a Group Project
 If you are creating a new repository, you can choose one of the workflows below:
 
