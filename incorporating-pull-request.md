@@ -16,7 +16,7 @@ Assuming the contributor created a new branch for their changes and their fork i
 8. Go back to the page for your fork. Create a new branch. Name this branch with the name of the new feature. The new branch should copy all code from your main branch. 
 9. You can edit the code within the branch. Always work within the branch. Keep your fork and branch up to date with the original repository by synching before starting any new work. 
 10. Set up GitHub pages to work with your new branch. Go the GitHub pages settings and change the source for the pages to your new branch.
-11. On the main page for your repository, click the gear near the URL. Check the box that says ""
+11. On the main page for your repository, click the gear near the URL. Check the box that says "Use your GitHub pages site"
 12. When you are ready, you can submit a pull request to the original repository.
 
 ## Worse Option: Manually Copy in Web Interface from Changes Made to a Branch
@@ -25,5 +25,5 @@ Assuming the contributor created a new branch for their changes and their fork i
 3. Look at changes made in pull request
 4. Manually copy them to your new branch.
 
-Acknowledgements
+## Acknowledgements
 Some initial advice for these instructions was provided by Microsoft Copilot. All steps were edited and tested by Jonathan Farbowitz.
